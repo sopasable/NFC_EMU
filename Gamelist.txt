@@ -1,0 +1,20 @@
+----- NES ------
+https://sopasable.github.io/NFC_EMU/NES/MD/
+https://sopasable.github.io/NFC_EMU/NES/DK/
+https://sopasable.github.io/NFC_EMU/NES/Z_I/
+https://sopasable.github.io/NFC_EMU/NES/Z_II/
+https://sopasable.github.io/NFC_EMU/NES/M_I/
+https://sopasable.github.io/NFC_EMU/NES/M_II/
+https://sopasable.github.io/NFC_EMU/NES/M_III/
+https://sopasable.github.io/NFC_EMU/NES/P_O/
+https://sopasable.github.io/NFC_EMU/NES/BT/
+
+----- GB -----
+https://sopasable.github.io/NFC_EMU/GB/P_RED/
+https://sopasable.github.io/NFC_EMU/GB/P_BLUE/
+
+----- GBC -----
+
+----- N64 -----
+
+----- GBA -----

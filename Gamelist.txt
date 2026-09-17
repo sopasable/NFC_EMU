@@ -15,6 +15,14 @@ https://sopasable.github.io/NFC_EMU/GB/P_BLUE/
 
 ----- GBC -----
 
+----- SNES -----
+https://sopasable.github.io/NFC_EMU/SNES/MK/
+https://sopasable.github.io/NFC_EMU/SNES/FF/
+https://sopasable.github.io/NFC_EMU/SNES/MKT/
+https://sopasable.github.io/NFC_EMU/SNES/MW/
+https://sopasable.github.io/NFC_EMU/SNES/Z_I/
+https://sopasable.github.io/NFC_EMU/SNES/DM/
+
 ----- N64 -----
 
 ----- GBA -----

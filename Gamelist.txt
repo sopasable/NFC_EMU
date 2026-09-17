@@ -27,7 +27,7 @@ https://sopasable.github.io/NFC_EMU/SNES/DM/
 
 ----- N64 -----
 https://sopasable.github.io/NFC_EMU/N64/SB/
-https://sopasable.github.io/NFC_EMU/N64/MP/
+https://sopasable.github.io/NFC_EMU/N64/MP_3/
 https://sopasable.github.io/NFC_EMU/N64/PS/
 
 ----- GBA -----

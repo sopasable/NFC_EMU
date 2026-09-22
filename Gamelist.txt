@@ -12,7 +12,7 @@ https://sopasable.github.io/NFC_EMU/NES/BT/
 ----- GB -----
 https://sopasable.github.io/NFC_EMU/GB/P_RED/
 https://sopasable.github.io/NFC_EMU/GB/P_BLUE/
-https://sopasable.github.io/NFC_EMU/GB/KIRBY/
+https://sopasable.github.io/NFC_EMU/GB/Kirby/
 
 ----- GBC -----
 https://sopasable.github.io/NFC_EMU/GB/P_YELLOW/

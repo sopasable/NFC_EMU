@@ -8,11 +8,15 @@ https://sopasable.github.io/NFC_EMU/NES/M_II/
 https://sopasable.github.io/NFC_EMU/NES/M_III/
 https://sopasable.github.io/NFC_EMU/NES/P_O/
 https://sopasable.github.io/NFC_EMU/NES/BT/
+https://sopasable.github.io/NFC_EMU/NES/SPIDERM/
 
 ----- GB -----
 https://sopasable.github.io/NFC_EMU/GB/P_RED/
 https://sopasable.github.io/NFC_EMU/GB/P_BLUE/
 https://sopasable.github.io/NFC_EMU/GB/Kirby/
+https://sopasable.github.io/NFC_EMU/GB/TASM/
+https://sopasable.github.io/NFC_EMU/GB/SM2/
+
 
 ----- GBC -----
 https://sopasable.github.io/NFC_EMU/GB/P_YELLOW/
@@ -25,10 +29,13 @@ https://sopasable.github.io/NFC_EMU/SNES/MKT/
 https://sopasable.github.io/NFC_EMU/SNES/MW/
 https://sopasable.github.io/NFC_EMU/SNES/Z_I/
 https://sopasable.github.io/NFC_EMU/SNES/DM/
+https://sopasable.github.io/NFC_EMU/SNES/SM/
 
 ----- N64 -----
 https://sopasable.github.io/NFC_EMU/N64/SB/
 https://sopasable.github.io/NFC_EMU/N64/MP_3/
 https://sopasable.github.io/NFC_EMU/N64/PS/
+https://sopasable.github.io/NFC_EMU/N64/SPIDERM64/
+https://sopasable.github.io/NFC_EMU/N64/SM/
 
 ----- GBA -----

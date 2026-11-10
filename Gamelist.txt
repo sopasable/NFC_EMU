@@ -38,4 +38,5 @@ https://sopasable.github.io/NFC_EMU/N64/PS/
 https://sopasable.github.io/NFC_EMU/N64/SPIDERM64/
 https://sopasable.github.io/NFC_EMU/N64/SM/
 
------ GBA -----
+----- DS -----
+https://sopasable.github.io/NFC_EMU/DS/MK/

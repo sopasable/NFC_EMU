@@ -40,3 +40,8 @@ https://sopasable.github.io/NFC_EMU/N64/SM/
 
 ----- DS -----
 https://sopasable.github.io/NFC_EMU/DS/MK/
+https://sopasable.github.io/NFC_EMU/DS/SM/
+https://sopasable.github.io/NFC_EMU/DS/ML/
+https://sopasable.github.io/NFC_EMU/DS/PB/
+https://sopasable.github.io/NFC_EMU/DS/PW/
+

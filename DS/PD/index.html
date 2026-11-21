@@ -24,9 +24,23 @@
         overflow: hidden;
     }
 
-    #game {
+    #game,
+    #game canvas {
         width: 100vw;
         height: 100vh;
+        touch-action: auto !important;
+        pointer-events: auto !important;
+    }
+
+    /* Permitir interacción táctil con la pantalla */
+    #game {
+        touch-action: manipulation !important;
+        pointer-events: auto !important;
+    }
+
+    #game canvas {
+        touch-action: none !important;
+        pointer-events: auto !important;
     }
 
     /* Evita barras de desplazamiento */
@@ -45,6 +59,9 @@
 <script>
     // Elemento donde se mostrará EmulatorJS
     EJS_player = "#game";
+
+    // Habilitar soporte táctil
+    EJS_touch = true;
 
     // Emulador de Game Boy
     EJS_core = "nds";

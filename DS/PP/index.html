@@ -1,9 +1,8 @@
-<!-- URL para entrar al juego. Recomendado usar Chrome -->
+e<!-- URL para entrar al juego. Recomendado usar Chrome -->
 <!-- En caso de algún error donde no se muestren controles, pantalla, etc. Borrar historial y caché -->
 <!-- https://sopasable.github.io/NFC_EMU/DS/PP/ -->
 
 <!DOCTYPE html>
-
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -23,7 +22,7 @@
         background: #000;
         overflow: hidden;
     }
-    
+
     #game,
     #game canvas {
         width: 100vw;
@@ -32,11 +31,22 @@
         pointer-events: auto !important;
     }
 
+    /* Permitir interacción táctil con la pantalla */
+    #game {
+        touch-action: manipulation !important;
+        pointer-events: auto !important;
+    }
+
+    #game canvas {
+        touch-action: none !important;
+        pointer-events: auto !important;
+    }
+
     /* Evita barras de desplazamiento */
     body {
         overflow: hidden;
     }
-    
+
 </style>
 
 </head>
@@ -49,15 +59,16 @@
     // Elemento donde se mostrará EmulatorJS
     EJS_player = "#game";
 
+    // Habilitar soporte táctil
     EJS_touch = true;
 
-    // Emulador de Game Boy
+    // Emulador Nintendo DS
     EJS_core = "nds";
 
     // ROM
     EJS_gameUrl = "PP.nds";
 
-    // Controles de Game Boy
+    // Controles de Nintendo DS
     EJS_controlScheme = 2;
 
     // Intentar cargar automáticamente el juego
